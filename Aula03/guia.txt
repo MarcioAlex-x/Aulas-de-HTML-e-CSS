@@ -1,0 +1,7 @@
+criação de tags image
+criação de article
+criação de textos
+criação de h3
+
+Exercício proposto:
+Coloque conteúdos sobre as tecnologias em cada tag <p>, repita as tags se for necessário.

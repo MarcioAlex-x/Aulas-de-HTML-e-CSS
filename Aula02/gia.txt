@@ -1,0 +1,8 @@
+Criação do documento
+Criação do h1 e do ul/li
+
+Exercício proposto:
+Coloque o <h1> dentro da tag <header>  
+coloque <ul> dentro de <nav>
+Monte a estrutura com as seguintes tags seguindo a sequência apresentada:
+<header>, <nav>, <section>,<aside> e <footer>, as que estiverem criadas permanecem, apenas reorganize se necessário, se não existem, crie-as.

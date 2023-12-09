@@ -1,0 +1,11 @@
+iframe do youtube
+h4
+footer - &copy;
+criação de sobre e contato
+ancoragens
+formsubmit
+
+Exercício proposto:
+Acesse a documentação do formsubmit para fazer mudanças no seu formulário.
+Crie uma página fake com as tags de formulário, não precisa estar bem estruturada, você precisa conhecer as tags de formulário para o seu futuro como desenvolvedor
+

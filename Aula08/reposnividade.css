@@ -1,0 +1,52 @@
+@media only screen and (max-width: 884px) {
+    body{
+        display: grid;
+        grid-template-areas: 
+        "h h h h h h"
+        "n n n n n n"
+        "s s s s s s"
+        "a a a a a a"
+        "f f f f f f"
+        ;
+        gap: 20px;
+    }
+    article img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    /* Mostrar exemplo:
+    article{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    */
+    aside{
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+  }
+
+  @media only screen and (max-width: 320px) {
+    li{
+        font-size: 16px;
+    }
+    section, aside{
+        width: 100vw;
+    }
+    article{
+        width: 100%;
+    }
+    aside iframe{
+        width: 300px;
+        height: auto;
+    }
+
+  }
+  

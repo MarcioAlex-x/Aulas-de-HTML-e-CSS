@@ -1,0 +1,7 @@
+margin e padding
+font-famiy
+box-sizing
+color
+
+Pesquise sobre os valores aceitos pelo CSS e escreva um artigo simples sobre eles
+
